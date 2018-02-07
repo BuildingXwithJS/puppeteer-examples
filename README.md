@@ -12,6 +12,11 @@ This is a series of small demos showing how to use puppeteer to do:
 * Get percentage for CSS and JS usage for your website
 * Perform Lighthouse audit of your website
 
+## Running project
+
+1. Start the website from `./website` folder by running `npm run dev`
+2. Execute one of the scripts in parent folder: `render-comparison.js` or `code-usage.js` or `lighthouse.js`
+
 ## Related links
 
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer)
