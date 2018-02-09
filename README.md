@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on using puppeteer for fun and profit
 
-This repository contains code and related materials for [Using puppeteer for fun and profit]() video.
+This repository contains code and related materials for [Using puppeteer for fun and profit](https://youtu.be/OMJGHOw2iog) video.
 
 ## Project description
 
